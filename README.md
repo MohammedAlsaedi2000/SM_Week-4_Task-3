@@ -12,17 +12,17 @@ https://github.com/user-attachments/assets/d1ccb2ff-c92f-4b9c-b62a-d2ecc8370f14
 
 ## Components Used
 
-Arduino UNO 3
-MAX7219 8x8 Dot Matrix LED Display Module
-Wires
+- Arduino UNO 3
+- MAX7219 8x8 Dot Matrix LED Display Module
+- Wires
 
 ## Wiring or Connections
 
-DIN: Connect to digital pin 12 on the Arduino
-CS:  Connect to digital pin 11 on the Arduino
-CLK: Connect to digital pin 10 on the Arduino
-VCC: Connect to the 5V pin on the Arduino
-GND: Connect to the GND pin on the Arduino
+- DIN: Connect to digital pin 12 on the Arduino
+- CS:  Connect to digital pin 11 on the Arduino
+- CLK: Connect to digital pin 10 on the Arduino
+- VCC: Connect to the 5V pin on the Arduino
+- GND: Connect to the GND pin on the Arduino
 
 
 ## References
