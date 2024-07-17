@@ -8,6 +8,8 @@ This projects shows the simple design of Arduino UNO 3, 8x8 LED Matrix and Ardui
 
 ## Demo
 
+https://github.com/user-attachments/assets/d1ccb2ff-c92f-4b9c-b62a-d2ecc8370f14
+
 ## Components Used
 
 Arduino UNO 3
